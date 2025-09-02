@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 
 ## 📊 Contribution Graph  
 
-[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?ABDULLAH1SAID=YOUR_USERNAME&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABDULLAH1SAID&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
