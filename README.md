@@ -35,15 +35,15 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 
 ## 📈 GitHub Stats  
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)  
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDULLAH1SAID&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAH1SAID&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ABDULLAH1SAID&theme=radical&hide_border=true)  
 
 ---
 
 ## 📊 Contribution Graph  
 
-[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?ABDULLAH1SAID=YOUR_USERNAME&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
@@ -94,9 +94,9 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 
 ## 📫 Let's Connect  
 
-- 💼 **LinkedIn**: [Your LinkedIn Profile]  
-- 📧 **Email**: your.email@example.com  
-- 🐱 **GitHub**: [@YourUsername](https://github.com/YourUsername)  
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abdullah-said-41b589222/)  
+- 📧 **Email**: abdulahsaid0525@gmail.com  
+- 🐱 **GitHub**: (https://github.com/ABDULLAH1SAID)  
 
 ---
 
