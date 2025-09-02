@@ -109,8 +109,3 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 
 ---
 
-*"Code is poetry written in logic"* ✨  
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
-
----
