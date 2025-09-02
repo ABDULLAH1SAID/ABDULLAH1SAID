@@ -30,14 +30,13 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves build
 - **RESTful API Design** - Scalable and clean architecture  
 - **Testing (Jest / Mocha)** - Unit & integration testing  
 - **Docker** - Containerization & deployment
-- 
+  
 ---
 
 ## 📈 GitHub Stats  
 
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDULLAH1SAID&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAH1SAID&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ABDULLAH1SAID&theme=radical&hide_border=true)  
 
 ---
 
